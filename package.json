@@ -1,0 +1,19 @@
+{
+  "name": "mongoose-checkpoint",
+  "version": "0.1.0",
+  "description": "Answer to gomycode mongoose checkpoint",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "IGE DANIEL O (daydev)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.3",
+    "nodemon": "^2.0.20"
+  }
+}
